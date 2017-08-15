@@ -1,4 +1,4 @@
-## About Us
+## WHAT THE FUCK DO I DO
 
 You can use the [editor on GitHub](https://github.com/nnicolesanchez/HIKI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
