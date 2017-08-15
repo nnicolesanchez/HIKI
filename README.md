@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](sy.JPG)
+[Link](url) and ![Image]('sy.JPG')
 ```
 
 <a href="Descendants.md" title="About Me">About Me</a>
